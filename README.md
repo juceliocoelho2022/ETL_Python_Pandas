@@ -1,4 +1,4 @@
-# ETL_Python_Pndas
+# ETL_Python_Pandas
 
 #Ferramentas utilizadas 
 Vscode 
